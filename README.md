@@ -1,4 +1,4 @@
-# SafeMoon Tampermonkey tutorial
+# SafeMoon Tampermonkey
 
 ## Installation
 
