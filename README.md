@@ -12,3 +12,7 @@
 ## Script
 
 * [Safemoon](/safemoon.js)
+
+## Media
+
+![Untitled](https://user-images.githubusercontent.com/22936646/161587509-ce5466ce-d335-4c64-9f32-9efb795e4fa2.png)
